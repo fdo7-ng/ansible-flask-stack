@@ -205,3 +205,4 @@ Credits goes to the authors of the following projects:
   * https://github.com/vitalk/ansible-flaskapp
   * https://github.com/ansistrano/deploy
   * https://github.com/nodesource/ansible-nodejs-role
+# ansible-flask-stack
